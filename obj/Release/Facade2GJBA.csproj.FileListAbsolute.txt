@@ -1,0 +1,9 @@
+F:\Proyectos\NewRobot 2GJ BA\Desarrollo\Facade2GJBizAgi\Facade2GJBA\bin\Facade2GJBA.dll
+F:\Proyectos\NewRobot 2GJ BA\Desarrollo\Facade2GJBizAgi\Facade2GJBA\bin\Facade2GJBA.pdb
+F:\Proyectos\NewRobot 2GJ BA\Desarrollo\Facade2GJBizAgi\Facade2GJBA\bin\BizAgi.BL.dll
+F:\Proyectos\NewRobot 2GJ BA\Desarrollo\Facade2GJBizAgi\Facade2GJBA\bin\BizAgi.Defs.dll
+F:\Proyectos\NewRobot 2GJ BA\Desarrollo\Facade2GJBizAgi\Facade2GJBA\bin\Tools2GJ.dll
+F:\Proyectos\NewRobot 2GJ BA\Desarrollo\Facade2GJBizAgi\Facade2GJBA\bin\Utilities.dll
+F:\Proyectos\NewRobot 2GJ BA\Desarrollo\Facade2GJBizAgi\Facade2GJBA\bin\Tools2GJ.pdb
+F:\Proyectos\NewRobot 2GJ BA\Desarrollo\Facade2GJBizAgi\Facade2GJBA\obj\Release\Facade2GJBA.dll
+F:\Proyectos\NewRobot 2GJ BA\Desarrollo\Facade2GJBizAgi\Facade2GJBA\obj\Release\Facade2GJBA.pdb
